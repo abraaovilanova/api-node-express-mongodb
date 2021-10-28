@@ -1,0 +1,25 @@
+{
+  "name": "api-node-express-mongodb",
+  "version": "1.0.0",
+  "description": "Template de API utilizando o Node.js e o Express com autenticação de usuáro com um CRUD acessando o mongodB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abraaovilanova/api-node-express-mongodb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abraaovilanova/api-node-express-mongodb/issues"
+  },
+  "homepage": "https://github.com/abraaovilanova/api-node-express-mongodb#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.12"
+  }
+}
